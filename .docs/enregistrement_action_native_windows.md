@@ -1,4 +1,4 @@
-![icon](https://static.wikia.nocookie.net/logopedia/images/c/c8/Steps_Recorder_2009.png/revision/latest?cb=20230101175525 =250x250)
+<img src="[https://your-image-url.type](https://static.wikia.nocookie.net/logopedia/images/c/c8/Steps_Recorder_2009.png/revision/latest?cb=20230101175525)" width="300">
 
 ------------------------------------------------------------------------------------------------------------------
 
