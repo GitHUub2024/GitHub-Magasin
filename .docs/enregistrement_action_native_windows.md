@@ -3,7 +3,7 @@
   
 ------------------------------------------------------------------------------------------------------------------
 
-Étapes d'accès (comment trouver l'application et faire tourner l'affichage 
+<h2>Étapes d'accès (comment trouver l'application et faire tourner l'affichage</h2>
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -82,10 +82,10 @@
 
 
 
-
+  
 ------------------------------------------------------------------------------------------------------------------
 
-Étapes d'utilisation (comment ça fonctionne et comment trouver le fichier .mht généré)
+<h2>Étapes d'utilisation (comment ça fonctionne et comment trouver le fichier .mht généré)</h2>
 
 ------------------------------------------------------------------------------------------------------------------
 
