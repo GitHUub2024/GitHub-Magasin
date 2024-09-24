@@ -1,4 +1,4 @@
-# Documentation : Création d'un Dépôt GitHub
+# Documentation : Création d'un Dépôt ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Objectif
 Ce guide explique comment créer un dépôt (repository) GitHub pas à pas, avec des captures d'écran pour rendre la démarche simple à suivre. Ce processus vous permettra de gérer et de partager du code de manière collaborative via GitHub.
@@ -56,11 +56,12 @@ Ce guide explique comment créer un dépôt (repository) GitHub pas à pas, avec
 
 ## Étape 4 : Gérer les collaborateurs
 
-1 .Pour ajouter des collaborateurs, allez dans l'onglet Settings de votre dépôt.
+1. Pour ajouter des collaborateurs, allez dans l'onglet Settings de votre dépôt.
 
-2. Cliquez sur Collaborators dans le menu latéral gauche, puis ajoutez les noms d'utilisateur GitHub des personnes que vous souhaitez inviter.
+2. Cliquez sur Collaborators dans le menu latéral gauche, puis ajoutez les noms d'utilisateur GitHub des personnes que vous souhaitez inviter.  
 
-(Capture d'écran pour ajouter un collaborateur.)
+![Ajouter un collaborateur-Plus](https://docs.github.com/assets/cb-22726/images/help/security/security-advisory-add-collaborator-button.png)  
+(Captures d'écran pour ajouter un collaborateur.)
 
 3. Chaque personne recevra une invitation par e-mail pour collaborer sur votre dépôt.
 
@@ -69,6 +70,8 @@ Ce guide explique comment créer un dépôt (repository) GitHub pas à pas, avec
 A. **Créer une Issue**
 
 1. Pour suivre les tâches ou signaler des bugs, utilisez les Issues. Accédez à l'onglet Issues et cliquez sur New issue.
+
+  
 (Capture d'écran de la création d'une issue.)
 
 2. Donnez un titre et une description à votre issue, et vous pouvez l'assigner à un collaborateur ou ajouter des labels.
@@ -76,6 +79,8 @@ A. **Créer une Issue**
 B. **Créer une Pull Request**
 
 1. Après avoir modifié du code sur une branche, créez une Pull Request. Allez dans l'onglet Pull requests et cliquez sur New pull request.
+
+![créer une pull request](https://docs.github.com/assets/cb-59671/images/help/codespaces/codespaces-commit-pr.png)  
 (Capture d'écran de la création d'une Pull Request.)
 
 2. Comparez les branches, ajoutez une description des changements effectués, puis soumettez la Pull Request pour révision.
