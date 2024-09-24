@@ -18,10 +18,10 @@ Ce guide explique comment créer un dépôt (repository) GitHub pas à pas, avec
 
 1. Une fois connecté, cliquez sur le **bouton +** en haut à droite de la page, puis sélectionnez **New repository**.
 
-   ![Nouveau dépôt](https://docs.github.com/assets/cb-29762/images/help/repository/repo-create-global-nav-update.png)
+   ![Nouveau dépôt](https://docs.github.com/assets/cb-29762/images/help/repository/repo-create-global-nav-update.png)$\space$
    (Capture d'écran de l'emplacement pour créer un nouveau dépôt.)
 
-2. Vous arriverez sur la page de création de dépôt. Remplissez les informations suivantes :
+3. Vous arriverez sur la page de création de dépôt. Remplissez les informations suivantes :
    - **Repository name** : Donnez un nom à votre dépôt. Par exemple, "mon-premier-depot".
    - **Description** (facultatif) : Vous pouvez ajouter une courte description de votre projet.
    - **Public ou Private** : Choisissez si le dépôt sera public (visible par tous) ou privé (visible uniquement par vous et les personnes que vous invitez).
@@ -29,12 +29,12 @@ Ce guide explique comment créer un dépôt (repository) GitHub pas à pas, avec
    ![Formulaire de dépôt](https://docs.github.com/assets/images/help/repository/create-repository-name.png)  
    (Capture d'écran de la configuration du dépôt.)
 
-3. (Optionnel) Cochez les options suivantes :
+4. (Optionnel) Cochez les options suivantes :
    - **Initialize this repository with a README** : Pour créer un fichier README.md de base.
    - **Add .gitignore** : Pour ignorer certains fichiers dans Git.
    - **Choose a license** : Sélectionnez une licence pour définir les droits d'utilisation de votre projet.
 
-4. Cliquez sur **Create repository** pour finaliser la création du dépôt.
+5. Cliquez sur **Create repository** pour finaliser la création du dépôt.
 
 ## Étape 3 : Cloner le dépôt localement
 
