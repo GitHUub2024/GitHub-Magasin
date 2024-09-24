@@ -1,4 +1,6 @@
-# Documentation : Création d'un Dépôt ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+# Documentation : Création d'un Dépôt
 
 ### Objectif
 Ce guide explique comment créer un dépôt (repository) GitHub pas à pas, avec des captures d'écran pour rendre la démarche simple à suivre. Ce processus vous permettra de gérer et de partager du code de manière collaborative via GitHub.
