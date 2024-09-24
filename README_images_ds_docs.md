@@ -27,7 +27,7 @@ Ce guide explique comment créer un dépôt (repository) GitHub pas à pas, avec
    - **Public ou Private** : Choisissez si le dépôt sera public (visible par tous) ou privé (visible uniquement par vous et les personnes que vous invitez).
 
    ![Formulaire de dépôt](https://docs.github.com/assets/images/help/repository/create-repository-name.png)  
-   (Capture d'écran de la configuration du dépôt.)
+    (Capture d'écran de la configuration du dépôt.)
 
 4. (Optionnel) Cochez les options suivantes :
    - **Initialize this repository with a README** : Pour créer un fichier README.md de base.
