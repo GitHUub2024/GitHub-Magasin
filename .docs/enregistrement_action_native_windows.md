@@ -11,7 +11,7 @@
 
 *Commentaire : Étapes 1 à 3 montrent comment ouvrir Steps Recorder (Enregistrateur d'actions utilisateur) - une application native à Windows 7/8/10/11.*
 
-mhtml:file:///C:/Users/semen/OneDrive/Рабочий%20стол/Recording_20240923_1534.mht!screenshot0001.JPEG![image](https://github.com/user-attachments/assets/ae034a89-1232-4322-b72b-dbd245e4cdcc)
+![image](https://github.com/user-attachments/assets/ae034a89-1232-4322-b72b-dbd245e4cdcc)
 
 
 --------------------------------------------------------------------------------
