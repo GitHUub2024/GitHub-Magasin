@@ -1,26 +1,10 @@
-Étapes enregistrées
+![icon](https://static.wikia.nocookie.net/logopedia/images/c/c8/Steps_Recorder_2009.png/revision/latest?cb=20230101175525 =250x250)
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
-Ce fichier contient toutes les étapes et informations enregistrées dans vous aider à décrire les étapes enregistrées à d’autres personnes. 
+Étapes d'accès (comment trouver l'application et faire tourner l'affichage 
 
-Avant de partager ce fichier, vous devez vérifier les points suivants : 
-
-Les étapes ci-dessous décrivent avec précision l’enregistrement. 
-Il n'y a aucune information ci-dessous ou sur les captures d'écran que vous ne voulez pas que les autres voient.. 
-Les mots de passe ou tout autre texte que vous avez tapé n’ont pas été enregistrés, à l’exception de la fonction et des touches de raccourci que vous avez utilisées. 
-
-Vous pouvez effectuer les opérations suivantes : 
-
-Passez en revue les étapes enregistrées 
-Passez en revue les étapes enregistrées sous forme de diaporama 
-Vérifier les détails supplémentaires 
-
---------------------------------------------------------------------------------
-
-Étapes
-
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
 Suivant 
 
