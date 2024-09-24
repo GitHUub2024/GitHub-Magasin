@@ -9,7 +9,7 @@
 
 <h3>Étape 1:</h3> Saisie au clavier par l’utilisateur sur « Rechercher (fenêtre) » dans « Rechercher » [...]
 
-*Commentaire : Etapes 1-3 montrent comment ouvrir Steps Recorder (Enregistrateur d'actions utilisateur) - une application native à Windows 10/11.*
+*Commentaire : Étapes 1 à 3 montrent comment ouvrir Steps Recorder (Enregistrateur d'actions utilisateur) - une application native à Windows 7/8/10/11.*
 
 Étape 1 de capture d’écran.Étape 1 de capture d’écran. 
 --------------------------------------------------------------------------------
