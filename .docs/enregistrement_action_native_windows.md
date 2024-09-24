@@ -11,7 +11,8 @@
 
 *Commentaire : Étapes 1 à 3 montrent comment ouvrir Steps Recorder (Enregistrateur d'actions utilisateur) - une application native à Windows 7/8/10/11.*
 
-Étape 1 de capture d’écran.Étape 1 de capture d’écran. 
+![step1.1](./.pour_tutos/enregistrement_actions/img34.jpg)
+
 --------------------------------------------------------------------------------
 
 <h3>Étape 2:</h3> Clic avec le bouton gauche par l’utilisateur sur « Enregistreur d’actions utilisateur, Système, Appuyer à droite pour changer d’aperçu (option) » dans « Rechercher »
