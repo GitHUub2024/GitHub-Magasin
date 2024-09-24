@@ -1,4 +1,4 @@
-<img src="https://static.wikia.nocookie.net/logopedia/images/c/c8/Steps_Recorder_2009.png/revision/latest?cb=20230101175525" width="300">
+<img src="https://static.wikia.nocookie.net/logopedia/images/c/c8/Steps_Recorder_2009.png/revision/latest?cb=20230101175525" width="30">
 
 ------------------------------------------------------------------------------------------------------------------
 
