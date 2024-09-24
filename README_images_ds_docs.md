@@ -18,7 +18,7 @@ Ce guide explique comment créer un dépôt (repository) GitHub pas à pas, avec
 
 1. Une fois connecté, cliquez sur le **bouton +** en haut à droite de la page, puis sélectionnez **New repository**.
 
-   ![Nouveau dépôt](https://docs.github.com/assets/cb-29762/images/help/repository/repo-create-global-nav-update.png)$$/space$$
+   ![Nouveau dépôt](https://docs.github.com/assets/cb-29762/images/help/repository/repo-create-global-nav-update.png)$$\space$$
    (Capture d'écran de l'emplacement pour créer un nouveau dépôt.)
 
 3. Vous arriverez sur la page de création de dépôt. Remplissez les informations suivantes :
