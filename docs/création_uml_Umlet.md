@@ -1,4 +1,4 @@
-<h1> <img src="https://www.umlet.com/pic/umlet_logo.svg" width="60"> UMLet</h1>
+<h1> <img src="https://www.umlet.com/pic/umlet_logo.svg" width="120"></h1>
 
 
 ------------------------------------------------------------------------------------------------------------------
