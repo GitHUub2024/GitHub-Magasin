@@ -17,5 +17,5 @@
   
 3. Choisissez l'emplacement du fichier `.zip` contenant l'application et tous ses composantes pour fonctionner.
 4. Désarchivez le dossier Umlet - depuis le fichier .zip (i.e.- `...\umlet-standalone-15.1.zip\Umlet\...`) à l'emplacement qui vous convient
-5. Dans le 
+5. Dans le dossier Umlet, ouvrez l'application Umlet.exe
 
