@@ -8,7 +8,7 @@
 <h3>Télécharger l'application</h3>
 
 1. Se rendre sur le site: https://www.umlet.com/changes.htm
-2. Appuyer sur `UMLet 15.1 stand-alone` ou une version ultérieure.  
+2. Appuyer sur `UMLet 15.1 stand-alone` (ou une version ultérieure) commeci-dessous:  
 
 ![screen_télécharge](./pour_tutos/umlet/umlet_telecharge.png)
 3. 
