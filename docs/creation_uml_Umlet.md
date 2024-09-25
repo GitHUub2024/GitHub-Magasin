@@ -5,3 +5,9 @@
 <h2>Étapes d'accès (comment télécharger et ouvrir l'application)</h2>
 
 
+<h3>Télécharger l'application</h3>
+
+1. Se rendre sur le site: https://www.umlet.com/changes.htm
+2. Appuyer sur `UMLet 15.1 stand-alone` ou une version ultérieure.
+3. 
+
