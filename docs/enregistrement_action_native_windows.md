@@ -1,7 +1,7 @@
 <h1> <img src="https://static.wikia.nocookie.net/logopedia/images/c/c8/Steps_Recorder_2009.png/revision/latest?cb=20230101175525" width="30"> Enregistreur d'actions utilisateur</h1>
 
 
-<h2>Étapes d'accès (comment trouver l'application et faire tourner l'affichage</h2>------------------------------------------------------------------------------------------------------------------
+<h2>Étapes d'accès (comment trouver l'application et faire tourner l'affichage</h2><h2></h2>
 
 <h3>Étape 1:</h3> Saisie au clavier par l’utilisateur sur « Rechercher (fenêtre) » dans « Rechercher » [...]
 
