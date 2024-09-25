@@ -6,5 +6,4 @@ C'est une application gratuite qui permet de créer des .png de vos diagrammes U
 
 <h2>Étapes d'accès (comment télécharger et ouvrir l'application</h2>
 
-------------------------------------------------------------------------------------------------------------------
 
