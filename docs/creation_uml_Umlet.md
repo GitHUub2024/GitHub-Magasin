@@ -10,12 +10,12 @@
 <h2>Étapes d'accès (comment télécharger et ouvrir l'application)</h2>
 
 
-<h3>Télécharger l'application</h3>
-
-1. Se rendre sur le site: https://www.umlet.com/changes.htm
-2. Appuyer sur `UMLet 15.1 stand-alone` (ou une version ultérieure) comme ci-dessous:  
+1. Se rendez sur le site: https://www.umlet.com/changes.htm
+2. Appuyez sur `UMLet 15.1 stand-alone` (ou une version ultérieure) comme ci-dessous:  
 
 ![screen_télécharge](./pour_tutos/umlet/umlet_telecharge.png)
   
-3. Choisir l'emplacement du fichier .zip contenant l'application
+3. Choisissez l'emplacement du fichier `.zip` contenant l'application et tous ses composantes pour fonctionner.
+4. Désarchivez le dossier Umlet - depuis le fichier .zip (i.e.- `...\umlet-standalone-15.1.zip\<b>Umlet</b>\...` à l'emplacement qui vous convient
+5. Dans le 
 
