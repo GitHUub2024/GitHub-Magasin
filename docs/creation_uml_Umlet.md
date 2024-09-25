@@ -1,7 +1,7 @@
 <table width="100%"  style="border:0 solid white; width:100%;">
   <tr>
     <td><img src="https://www.umlet.com/pic/umlet_logo.svg" width="350"></td>
-    <td>UMLet est un outil UML open source sur GitHub avec une interface utilisateur simple : dessinez rapidement des diagrammes UML, exportez des diagrammes vers eps, pdf, jpg, svg et presse-papiers, créez de nouveaux éléments UML personnalisés.</td>
+    <td> <b>UMLet</b> est un outil UML open source sur GitHub avec une interface utilisateur simple : dessinez rapidement des diagrammes UML, exportez des diagrammes vers eps, pdf, jpg, svg et presse-papiers, créez de nouveaux éléments UML personnalisés.</td>
     
   </tr>
 
