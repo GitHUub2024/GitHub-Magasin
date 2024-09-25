@@ -1,6 +1,4 @@
-<img src="https://www.umlet.com/pic/umlet_logo.svg" width="150">
-
-C'est une application gratuite qui permet de créer des .png de vos diagrammes UML.
+<img src="https://www.umlet.com/pic/umlet_logo.svg" width="150"> C'est une application gratuite qui permet de créer des .png de vos diagrammes UML.
 
 ------------------------------------------------------------------------------------------------------------------
 
