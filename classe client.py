@@ -11,3 +11,5 @@ if __name__=="__main__":
     john=User()
     john.name="John"
     print(john.name)
+
+print('bonjour')
