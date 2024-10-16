@@ -24,10 +24,10 @@
 
                       0                
 
-  - _TD01.docx_
-  - _TD01.pdf_
-  - _creation_uml_Umlet.md_
-  - _enregistrement_action_native_windows.md_
+  - _TD01.docx_ = l'objectif donné
+  - _TD01.pdf_ = conversion du .docx en .pdf pour qu'il devient affichable sur GitHub 
+  - _creation_uml_Umlet.md_ = comment créer des diagrammes UML
+  - _enregistrement_action_native_windows.md_ = comment créer des screenshots succèssifs 
   
                  
 _README.md_ = créer un depôt Github  
