@@ -1,6 +1,6 @@
 GitHub-Magasin:
 
-`/docs`
+`/docs`   
 
        `/classes` => fichiers du CODE (py, ipynb (py est préféré),...) et des diagrammes UML (png, jpeg,...)
 
