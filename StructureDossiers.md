@@ -14,9 +14,8 @@ GitHub-Magasin:
 
                       0                
                  
-        0
-
+  
                  
-README.md = créer un depôt Github
-StructureDossiers.md = la fonction (le contenu) des dossiers
+_README.md_ = créer un depôt Github  
+_StructureDossiers.md_ = la fonction (le contenu) des dossiers
 
