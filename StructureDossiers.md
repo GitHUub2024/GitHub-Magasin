@@ -11,8 +11,10 @@ StructureDossiers.md = la fonction des dossiers
  
 
 
-├── GitHub-Magasin
+├── GitHub-Magasin|
+
 │   ├── /docs
+
 │   │   ├── **/*.css
 |   ├── README.md = créer un depôt Github
 |   ├── StructureDossiers.md = la fonction des dossiers
