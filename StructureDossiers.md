@@ -1,4 +1,4 @@
-`GitHub-Magasin:`
+GitHub-Magasin:
        
        `/docs`
 
