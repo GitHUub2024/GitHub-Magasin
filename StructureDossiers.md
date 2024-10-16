@@ -1,5 +1,6 @@
 GitHub-Magasin:
-       
+
+Use `git status` to list all new or modified files that haven't yet been committed.
        `/docs`
 
                  `/classes` => fichiers du CODE (py, ipynb (py est préféré),...) et des diagrammes UML (png, jpeg,...)
