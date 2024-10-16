@@ -1,8 +1,14 @@
 > [!IMPORTANT]
 > Les types designés ci-dessous sont **/dossier**, _fichier pour lecture_, `fichier avec code`.
 
+  
+  
+  
+  
+  
+**GitHub-Magasin:**
 
-GitHub-Magasin:
+
 
 **/docs**
 
