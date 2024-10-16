@@ -4,6 +4,13 @@
 > [!CAUTION]
 > Il n'est ni utile, ni (normalement) possible de faire des changements à la branche `main`. Faites votre travail sur `dev` ou une nouvelle branche.
 
+
+<br></br>
+
+
+
+
+
 <h1> Structure de la branche main</h1>
 
 
