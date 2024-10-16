@@ -1,3 +1,5 @@
+(Voir en Raw - une visualisation à améliorer plus tard)
+
 README.md = créer un depôt Github
 StructureDossiers.md = la fonction des dossiers
 
