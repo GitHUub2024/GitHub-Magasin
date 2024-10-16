@@ -10,7 +10,7 @@
 
 
 
-**/docs**
++ **/docs**
 
   - **/classes** => fichiers du CODE (py, ipynb (py est préféré),...) et des diagrammes UML (png, jpeg,...)
 
@@ -30,8 +30,8 @@
   - _enregistrement_action_native_windows.md_ = comment créer des screenshots succèssifs 
   
                  
-_README.md_ = créer un depôt Github  
-_StructureDossiers.md_ = la fonction (le contenu) des dossiers
++ _README.md_ = créer un depôt Github  
++ _StructureDossiers.md_ = la fonction (le contenu) des dossiers
 
 
 
