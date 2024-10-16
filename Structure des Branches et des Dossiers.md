@@ -1,3 +1,13 @@
+
+<h1> Les règles des branches</h1>
+
+> [!CAUTION]
+> Il n'est ni utile, ni (normalement) possible de faire des changements à la branche `main`. Faites votre travail sur `dev` ou une nouvelle branche.
+
+<h1> Structure de la branche main</h1>
+
+
+
 > [!IMPORTANT]
 > Les types designés ci-dessous sont **/dossier**, _fichier pour lecture (texte, image, ...)_ et `fichier avec code (.py, .ipynb,...)`.
 
@@ -6,7 +16,7 @@
   
   
   
-**GitHub-Magasin:**
+**GitHub-Magasin (main):**
 
 
 
