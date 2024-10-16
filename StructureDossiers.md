@@ -6,11 +6,11 @@ GitHub-Magasin:
 
                         .
 
-       /pour_tutos => docs pour créer des fichiers MarkDowns (comme README.md)
+>>/pour_tutos => docs pour créer des fichiers MarkDowns (comme README.md)
 
                         .
                  
-       /scripts => pour des tests éventuels
+>>/scripts => pour des tests éventuels
 
                         .
                  
