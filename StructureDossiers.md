@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Les types designés ci-dessous sont **/dossier**, _fichier pour lecture_, `fichier avec code`.
+> Les types designés ci-dessous sont **/dossier**, _fichier pour lecture (texte, image, ...)_ et `fichier avec code (.py, .ipynb,...)`.
 
   
 <br></br>
