@@ -9,3 +9,10 @@ StructureDossiers.md = la fonction des dossiers
 |----> /pour_tutos => docs pour créer des fichiers MarkDowns (comme README.md)
 |----> /scripts => pour des tests éventuels
  
+
+
+├── GitHub-Magasin
+│   ├── /docs
+│   │   ├── **/*.css
+|   ├── README.md = créer un depôt Github
+|   ├── StructureDossiers.md = la fonction des dossiers
