@@ -1,3 +1,4 @@
+from Vente import Vente
 class Client:
     def __init__(self, id_client, nom, prenom, email, telephone):
         self.id_client = id_client  # Identifiant unique du client
@@ -7,8 +8,8 @@ class Client:
         self.telephone = telephone  # Numéro de téléphone
         self.historique_achats = []  # Liste pour stocker l'historique des achats
 
-    def ajouter_achat(self, achat):
-        self.historique_achats.append(achat)
+    def ajouter_achat(self, vente:Vente):
+        self.historique_achats.append(vente:Vente)
 
     def afficher_historique_achats(self):
         if not self.historique_achats:
