@@ -1,6 +1,7 @@
 from Vente import Vente
+
 class Client:
-    def __init__(self, id_client, nom, prenom, email, telephone):
+    def __init__(self, id_client:int, nom:str, prenom:str, email:str, telephone:int):
         self.id_client = id_client  # Identifiant unique du client
         self.nom = nom              # Nom de famille
         self.prenom = prenom        # Prénom
