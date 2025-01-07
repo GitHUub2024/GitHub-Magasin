@@ -60,10 +60,10 @@ class Metier:
         pass
 
     @staticmethod
-    def montant_moyen_achat_client(client: Client):
+    def montant_moyen_achat_client(client: Client) -> float:
         """
         Renvoie le montant moyen d'achat par un client.
         :param client: Le client en question.
         :return: Le montant moyen d'achat du client en euros.
         """
-        pass
+        return sum(vente.prix for vente in client.historique_achats) / len(client.historique_achats)
