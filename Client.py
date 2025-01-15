@@ -10,7 +10,12 @@ class Client:
         self.historique_achats = []  # Liste pour stocker l'historique des achats
 
     def ajouter_achat(self, vente:Vente):
-        self.historique_achats.append(vente:Vente)
+        self.historique_achats+=[vente]
+
+    def montant_moyen(self):
+        nombre_achat=len(self.historique_achats)
+        total=sum([self.historique_achats[k].prix for k in range(nombre_achat)])
+        return total/nombre_achat
 
     def afficher_historique_achats(self):
         if not self.historique_achats:
