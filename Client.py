@@ -14,7 +14,7 @@ class Client:
 
     def montant_moyen(self):
         nombre_achat=len(self.historique_achats)
-        total=sum([self.historique_achats[k].prix for k in range(nombre_achat)])
+        total=sum([self.historique_achats[k].prix_total for k in range(nombre_achat)])
         return total/nombre_achat
 
     def afficher_historique_achats(self):
