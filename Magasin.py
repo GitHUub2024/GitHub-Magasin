@@ -15,5 +15,10 @@ class Magasin:
 
 
 if __name__ == "__main__":
-    m1 = Magasin("Décathlon", ["natation", "danse", "foot"])
+    secteur_natation = SecteurActivite(
+        nom="natation", liste_rayons=[], liste_produits=[]
+    )
+    secteur_danse = SecteurActivite(nom="danse", liste_rayons=[], liste_produits=[])
+    secteur_foot = SecteurActivite(nom="foot", liste_rayons=[], liste_produits=[])
+    m1 = Magasin("Décathlon", [secteur_natation, secteur_danse, secteur_foot])
     print(m1)
