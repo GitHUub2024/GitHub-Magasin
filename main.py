@@ -69,18 +69,11 @@ def main():
         client=client1,
     )
 
-    # Ajout de l'achat au client et à l'historique des ventes du vendeur
-    client1.ajouter_achat(vente1)
-    vendeur1.ajoute_vente(vente1)
-
-    # Affichage de l'historique des achats du client
-    print(client1.afficher_historique_achats())
+    # Affichage des informations du magasin
+    print(magasin)
 
     # Affichage des informations du vendeur
     print(vendeur1.fiche_vendeur())
-
-    # Affichage des informations du magasin
-    print(magasin)
 
     # Affichage du stock après vente
     print(f"Stock du produit '{produit1.nom}': {produit1.stock} unités")
