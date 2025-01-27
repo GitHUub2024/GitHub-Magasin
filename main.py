@@ -6,6 +6,20 @@ from SecteurActivite import SecteurActivite
 from Magasin import Magasin
 
 
+# ====================
+# ALGORITHME PRINCIPAL
+# ====================
+
+
+# 1) On initialise un magasin avec différents secteur d'activité et plusieurs produits par secteurs
+# 2) On initialise des clients, des vendeurs et un responsable par secteur d'activité
+# 3) On effectue des ventes et on met à jour les statistiques des vendeurs ainsi que le stock des produits vendus
+# 4) On effectue des commandes sur le site internet
+# 5) On met à jour le catalogue internet après que les commandes aient été effectuées
+# 6) On calcul le prix moyen des articles du magasin
+# 7) On calcul le bénéfice du magasin (marge brute)
+
+
 def main():
     # Création de divers produits
     produit1 = Produit(
