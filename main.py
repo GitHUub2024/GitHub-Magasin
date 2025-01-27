@@ -7,7 +7,7 @@ from Magasin import Magasin
 
 
 def main():
-    # Création de produits
+    # Création de divers produits
     produit1 = Produit(
         identifiant="id_prod1",
         rayon="foot",
@@ -25,7 +25,7 @@ def main():
         tva=20,
     )
 
-    # Création d'un secteur d'activité
+    # Création d'un secteur d'activité auxquel lier les produits
     secteur_foot = SecteurActivite(
         nom="Secteur Foot",
         liste_rayons=["ballons", "chaussures"],
@@ -69,7 +69,7 @@ def main():
         client=client1,
     )
 
-    # Ajouter l'achat au client et à l'historique des ventes du vendeur
+    # Ajout de l'achat au client et à l'historique des ventes du vendeur
     client1.ajouter_achat(vente1)
     vendeur1.ajoute_vente(vente1)
 
