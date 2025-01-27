@@ -2,11 +2,11 @@ class Vente:
     def __init__(
         self,
         id_vente=None,
-        produits,
+        produits=None,
         prix_total=None,
         vendeur=None,
         date=None,
-        client=None
+        client=None,
     ):
         self.id_vente = id_vente
         self.produits = []
@@ -14,4 +14,3 @@ class Vente:
         self.vendeur = vendeur
         self.date = date
         self.client = client
-    
