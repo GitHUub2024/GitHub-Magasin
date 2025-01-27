@@ -9,7 +9,7 @@ class Responsable(Vendeur):
         telephone=None,
         mail=None,
         date_prise_de_fonction=None,
-        indice_grille_dalaire=None,
+        indice_grille_salaire=None,
         secteur=None,
     ):
         super().__init__(
@@ -18,7 +18,7 @@ class Responsable(Vendeur):
             telephone,
             mail,
             date_prise_de_fonction,
-            indice_grille_dalaire,
+            indice_grille_salaire,
             secteur,
             rayon_associe=None,
         )
