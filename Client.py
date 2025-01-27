@@ -28,3 +28,8 @@ class Client:
     def __str__(self):
         """Représentation en chaîne de caractères du client."""
         return f"{self.prenom} {self.nom} (Email: {self.email}, Téléphone: {self.telephone})"
+
+if __name__ == "__main__":
+    print("Attributs: \n id_client:int, nom:str, prenom:str, email:str, telephone:int ")
+    print("Méthodes: \n montant_moyen(): affiche le montant moyen par achat, ajouter_achat(): pour faire un nouvel achat, afficher_historique_achats(): affiche l'historique d'achat")
+    
