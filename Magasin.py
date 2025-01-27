@@ -1,3 +1,6 @@
+from SecteurActivite import SecteurActivite
+
+
 class Magasin:
     def __init__(self, nom, secteurs_act):
         self.nom = nom  # chaîne de caractères
@@ -6,8 +9,8 @@ class Magasin:
     def __str__(self):
         chaine = self.nom + " : {"
         for i in range(len(self.secteurs) - 1):
-            chaine += str(self.secteurs[i]) + ", "
-        chaine += str(self.secteurs[-1]) + "}"
+            chaine += str(self.secteurs[i].nom) + ", "
+        chaine += str(self.secteurs[-1].nom) + "}"
         return chaine
 
 
