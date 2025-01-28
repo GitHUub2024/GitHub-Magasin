@@ -41,7 +41,7 @@ class Vendeur:
 
     def get_montant_ventes(self):
         return (
-            sum(vente.prix_montant for vente in self.ventes) if len(self.ventes) != 0 else 0
+            sum(vente.prix_total for vente in self.ventes) if len(self.ventes) != 0 else 0
         )
 
 
