@@ -6,7 +6,7 @@ class Vendeur:
         telephone=None,
         mail=None,
         date_prise_de_fonction=None,
-        indice_grille_dalaire=None,
+        indice_grille_salaire=None,
         secteur=None,
         rayon_associe=None,
     ):
@@ -16,7 +16,7 @@ class Vendeur:
         self.telephone = telephone
         self.mail = mail
         self.date_prise_de_fonction = date_prise_de_fonction
-        self.indice_grille_dalaire = indice_grille_dalaire
+        self.indice_grille_salaire = indice_grille_salaire
         self.secteur = secteur
         self.rayon_associe = rayon_associe
         self.ventes = []
@@ -41,7 +41,7 @@ class Vendeur:
 
     def get_montant_ventes(self):
         return (
-            sum(vente.montant for vente in self.ventes) if len(self.ventes) != 0 else 0
+            sum(vente.prix_montant for vente in self.ventes) if len(self.ventes) != 0 else 0
         )
 
 
