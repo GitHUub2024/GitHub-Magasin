@@ -156,3 +156,7 @@ class Rayon:
             _int_: _la quantite du produit_
         """
         return self.produit[nomProduit]
+
+
+if __name__ == "__main__":
+    rayon = Rayon(1,"Pro","Enfants")
