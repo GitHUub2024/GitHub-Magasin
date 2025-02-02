@@ -29,7 +29,7 @@ class Vendeur:
             f"Prénom NOM : {self.prenom} {self.nom.upper()}\n"
             f"Téléphone : {self.telephone}\n"
             f"Mail : {self.mail}\n"
-            f"Montant des ventes : {self.get_montant_ventes()}"
+            f"Montant des ventes : {self.get_montant_ventes()}€"
         )
         return details
 
@@ -41,7 +41,9 @@ class Vendeur:
 
     def get_montant_ventes(self):
         return (
-            sum(vente.prix_total for vente in self.ventes) if len(self.ventes) != 0 else 0
+            sum(vente.prix_total for vente in self.ventes)
+            if len(self.ventes) != 0
+            else 0
         )
 
 
