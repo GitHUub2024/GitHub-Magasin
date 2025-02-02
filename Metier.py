@@ -1,6 +1,7 @@
 """
 Fichier contenant la classe Metier.
-Classe utilitaire du projet de simulation du programme de simulation de fonctionnement de magasin.
+Classe utilitaire du projet d'Algorithmie et Programmation avancée TD1 : programme de simulation de fonctionnement
+de magasin.
 
 Contient les méthodes suivantes :
     1) Méthodes renvoyant le montant total et moyen par rayons et par secteurs d'activité.
