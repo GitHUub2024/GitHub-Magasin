@@ -1,0 +1,38 @@
+Objet : Étapes à suivre pour ajouter vos classes sur la branche ‘dev’
+
+Voici les étapes à suivre pour ajouter vos classes Python à la branche 'dev' du projet MAGAZIN. Il est essentiel de respecter ces étapes pour garantir une organisation optimale du code et un travail collaboratif fluide.
+
+Voici les étapes à suivre :
+
+1. Assurez-vous d'être sur la branche `dev` :
+   - Avant de commencer, vérifiez que vous êtes bien sur la branche `dev`. Si vous n'êtes pas sur cette branche, changez-la en utilisant le menu déroulant en haut à gauche sur GitHub.
+
+2. Créez un fichier Python pour votre classe :
+   - Créez un fichier Python pour chaque classe que vous ajoutez.
+   - Le nom du fichier doit suivre cette convention de nommage : ‘MaClasse.py’.
+     - Important : Le nom du fichier doit commencer par une majuscule, et tous les autres mots doivent être en minuscules sans espaces ni caractères spéciaux. 
+
+   Exemple :
+   - Si votre classe s'appelle `Personne`, créez un fichier nommé 'Personne.py'.
+
+3. Ajoutez votre code à l'intérieur du fichier :
+   - Une fois le fichier créé, ajoutez-y le code de votre classe Python. Assurez-vous que votre code est bien structuré.
+
+4. Vérifiez le nom du fichier :
+   - Avant de committer, assurez-vous que le nom du fichier respecte bien la convention de nommage (par exemple, 'Personne.py' et non pas 'personne.py' ou 'PERSONNE.py').
+
+5. Committez vos modifications :
+   - Une fois le fichier créé et vérifié, commentez-le avec un message clair indiquant ce que vous avez ajouté. Par exemple :
+     - "Ajout de la classe Personne".
+   - Ensuite, poussez vos modifications sur le dépôt GitHub.
+
+6. Vérifiez que votre fichier est bien dans la branche ‘dev’ :
+   - Après avoir poussé votre fichier, vérifiez sur GitHub que le fichier est bien présent dans la branche 'dev' et qu'il est correctement ajouté.
+
+Rappel important :
+- Respectez absolument la convention de nommage des fichiers pour éviter toute confusion.
+- Assurez-vous de travailler sur la branche 'dev' pour éviter toute erreur de branche.
+
+Merci pour votre collaboration et bon travail à tous !
+
+
